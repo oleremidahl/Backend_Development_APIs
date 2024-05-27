@@ -32,7 +32,10 @@ app.get("/api/:date?", function (req, res) {
     date = new Date();
   } else if (isNaN(date.getTime())) {
     date = new Date(parseInt(date_string));
+  } else {
+    date = new Date(date_string);
   }
+  
   
   if (isNaN(date.getTime())) {
     res.json({ error : "Invalid Date" });
