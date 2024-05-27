@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 cd1ce67879ad0fbb91d1173316deb45573b2d111 Ole Remi Dahl <olerd@stud.ntnu.no> 1716834122 +0200	clone: from https://github.com/freeCodeCamp/boilerplate-project-timestamp.git
+cd1ce67879ad0fbb91d1173316deb45573b2d111 cd1ce67879ad0fbb91d1173316deb45573b2d111 Ole Remi Dahl <olerd@stud.ntnu.no> 1716834611 +0200	Branch: renamed refs/heads/main to refs/heads/main
+cd1ce67879ad0fbb91d1173316deb45573b2d111 cd1ce67879ad0fbb91d1173316deb45573b2d111 Ole Remi Dahl <olerd@stud.ntnu.no> 1716834703 +0200	Branch: renamed refs/heads/main to refs/heads/main
+cd1ce67879ad0fbb91d1173316deb45573b2d111 49993cd714ce270ce3fedf72ae884a774d491057 Ole Remi Dahl <olerd@stud.ntnu.no> 1716835161 +0200	commit: Added app.get("/api/timestamp/:date?")
+49993cd714ce270ce3fedf72ae884a774d491057 49fa7d75f410a05b1280ad96e5d9bdf835f48105 Ole Remi Dahl <olerd@stud.ntnu.no> 1716835230 +0200	commit: updated path
+49fa7d75f410a05b1280ad96e5d9bdf835f48105 c8fe77d39ab8c8723b09d7b13e570be77f111d0d Ole Remi Dahl <olerd@stud.ntnu.no> 1716835410 +0200	commit: fix
+c8fe77d39ab8c8723b09d7b13e570be77f111d0d ee4991f0bbaefb6bf3d94209cb16fe395b1220ea Ole Remi Dahl <olerd@stud.ntnu.no> 1716835597 +0200	commit: fixed input with valid dates
