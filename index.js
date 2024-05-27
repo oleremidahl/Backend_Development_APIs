@@ -24,7 +24,7 @@ app.get("/api/hello", function (req, res) {
   res.json({greeting: 'hello API'});
 });
 
-app.get("/api/timestamp/:date?", function (req, res) {
+app.get("/api/:date?", function (req, res) {
   var date_string = req.params.date;
   var date = new Date(date);
   
